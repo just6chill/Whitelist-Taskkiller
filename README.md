@@ -12,12 +12,13 @@ Whitelist usage:
     <process> <process> <process>
   
   without any newlines and one whitespace after each name of process
+  
 
 
 Example:
 
     explorer spotify chrome
-
+    
 
 when you are done with your whitelist just simple execute the Taskkiller.exe 
 
