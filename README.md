@@ -32,9 +32,6 @@ for self building:
 hope you enjoy ✌
 
 
-![GitHub all releases](https://img.shields.io/github/downloads/just6chill/
-Whitelist-Taskkiller/total)
-![GitHub last commit](https://img.shields.io/github/last-commit/just6chill/
-Whitelist-Taskkiller)
-![GitHub top language](https://img.shields.io/github/languages/top/just6chill/
-Whitelist-Taskkiller)
+![GitHub all releases](https://img.shields.io/github/downloads/just6chill/Whitelist-Taskkiller/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/just6chill/Whitelist-Taskkiller)
+![GitHub top language](https://img.shields.io/github/languages/top/just6chill/Whitelist-Taskkiller)
